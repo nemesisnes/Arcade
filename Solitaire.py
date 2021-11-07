@@ -17,7 +17,7 @@ CARD_HEIGHT = 190 * CARD_SCALE
 # How big is the mat we'll place the card on?
 MAT_PERCENT_OVERSIZE = 1.25
 MAT_HEIGHT = int(CARD_HEIGHT * MAT_PERCENT_OVERSIZE)
-MAT_WIDHTH = int(CARD_WIDTH * MAT_PERCENT_OVERSIZE)
+MAT_WIDTH = int(CARD_WIDTH * MAT_PERCENT_OVERSIZE)
 
 # How much space do we leave as a gap between mats?
 # Done as a percent of the mat size.
