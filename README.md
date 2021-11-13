@@ -1,7 +1,7 @@
 # Arcade
-This is a first try with Python Arcade. 
-Work in progress solitaire game that will feature other variants of the solitaire at a later time.
-Please feel free to use, edit, and contribute if you so please.
-The Arcade will be constantly updated as I progress in building this, so bare with me.
-If you're using Python, make sure you get arcade from PyPI.org
-Thanks for checking out my work, and keep rocking baby!
+Make sure that you have arcade installed on which ever editor you use to run Python, if not the files in this repository will not work. 
+Space Defense Force is a work inprogress title, that will eventually have enemies, levels, power-ups and such. 
+This build you'll be able to shoot meteors with the 1 or 2 keys. IF there is lag when you first fire I'm working on it.
+Up and down keys are to thrust the ship forward and backward, and the left and right arrow keys turn the ship.
+Added a game over sequence so that you can restart the game, will add a full on quit feature later.
+This build is open source for now, so edit and add as you please.
