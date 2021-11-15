@@ -1,9 +1,7 @@
 Space Defense Force
 ===================
 
-.. image:: Space Defense Force Open.png
-   image:: In Game.png
-   image:: Game over screen.png
+.. image:: In Game.png
    :width: 50%
 
 An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
