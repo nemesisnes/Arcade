@@ -1,4 +1,4 @@
-Asteroids Smasher
+Space Defense Force
 =================
 
 .. image:: screenshot.png
@@ -46,5 +46,6 @@ This example is designed to show off using shaders for visual effects.
      - The starting screen that shows the instructions and allows the user to
        select number of players.
    * - `window.py <source/window.py>`_
-     - A subclass of Window that also tracks the joysticks that are plugged in.
+     - Attempting to add enemies to fight against with a steady moving background and
+       will be adding levels to the game.
 
