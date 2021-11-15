@@ -1,7 +1,7 @@
 Space Defense Force
 ===================
 
-.. image:: Game_over_screen.png
+.. image:: In Game.png
    :width: 50%
 
 An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
@@ -47,6 +47,6 @@ This example is designed to show off using shaders for visual effects.
        select number of players.
    * - `window.py <source/window.py>`_
      - Added game over sequence that loops the game to replay. Also, adding enemy ships within the
-       game_view.py and added an enemy_ship_sprite.py, though for whatever reason the enemies are
+       game_view.py and added an enemy_ship_sprite.py <source/enemy_ship_sprite.py>, though for whatever reason the enemies are
        not loading at the present moment.
 
