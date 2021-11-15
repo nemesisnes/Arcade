@@ -46,5 +46,7 @@ This example is designed to show off using shaders for visual effects.
      - The starting screen that shows the instructions and allows the user to
        select number of players.
    * - `window.py <source/window.py>`_
-     - A subclass of Window that also tracks the joysticks that are plugged in.
+     - Added game over sequence that loops the game to replay. Also, adding enemy ships within the
+       game_view.py and added an enemy_ship_sprite.py, though for whatever reason the enemies are
+       not loading at the present moment.
 
