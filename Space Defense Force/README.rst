@@ -51,4 +51,9 @@ This example is designed to show off using shaders for visual effects.
        select number of players.
    * - `window.py <source/window.py>`_
      - A subclass of Window that also tracks the joysticks that are plugged in.
+   * - `game_over_view.py <source/game_over_view.py>`_
+     - Added game_over screen for players to play again and see an actual game over screen.
+   * - `enemy_ship_sprite.py <source/enemy_ships_prite.py>`_
+     - Attempting to add new enemy class into game. Work in progress. Left templates to sort
+       through variables and such.
 
