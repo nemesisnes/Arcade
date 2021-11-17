@@ -1,7 +1,11 @@
-Asteroids Smasher
-=================
+Space Defense Force
+===================
 
-.. image:: screenshot.png
+.. image:: SpaceDefenseForceOpen.png
+   :width: 50%
+.. image:: InGame.png
+   :width: 50%
+.. image:: GameOverScreen.png
    :width: 50%
 
 An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
