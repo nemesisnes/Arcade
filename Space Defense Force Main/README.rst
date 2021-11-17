@@ -1,7 +1,11 @@
-Asteroids Smasher
-=================
+Space Defense Force
+===================
 
-.. image:: screenshot.png
+.. image:: SpaceDefenseForceOpen.png
+   :width: 50%
+.. image:: InGame.png
+   :width: 50%
+.. image:: GameOverScreen.png
    :width: 50%
 
 An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
@@ -46,5 +50,6 @@ This example is designed to show off using shaders for visual effects.
      - The starting screen that shows the instructions and allows the user to
        select number of players.
    * - `window.py <source/window.py>`_
-     - A subclass of Window that also tracks the joysticks that are plugged in.
+     - A subclass of Window that also tracks the joysticks that are plugged in. Though I pulled the joysticks
+       feature for a short time until further notice.
 
