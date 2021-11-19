@@ -1,1 +1,2 @@
-arcade
+Must have arcade installed in whichever editor you are using.
+You can do this by typing pip install arcade or follow link: https://api.arcade.academy/en/latest/install/index.html#installation-instructions
