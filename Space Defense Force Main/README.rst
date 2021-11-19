@@ -12,6 +12,8 @@ An asteroids clone made with the `Arcade library <https://api.arcade.academy>`_.
 
 This example is designed to show off using shaders for visual effects.
 
+ToDo: Will adding hit points to ShipSprite, adding Ufo's in a future update and will be adding hit points to them as well. Will be adding levels, with bosses at the end of each level, with an end game boss. Will be also adding power-ups, missiles and other special treats at a later date. Please be patient.
+
 .. list-table:: Project Files
    :widths: 25 75
    :header-rows: 1
@@ -50,6 +52,5 @@ This example is designed to show off using shaders for visual effects.
      - The starting screen that shows the instructions and allows the user to
        select number of players.
    * - `window.py <source/window.py>`_
-     - A subclass of Window that also tracks the joysticks that are plugged in. Though I pulled the joysticks
-       feature for a short time until further notice.
-
+     - A subclass of Window that also tracks the joysticks that are plugged in. I remarked the joysticks
+       feature until further notice. It was having issues confliction issues with the game_over_view.
