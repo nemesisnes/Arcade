@@ -14,7 +14,7 @@ This example is designed to show off using shaders for visual effects.
 
 I remarked the joysticks feature from game_view until further notice. It was having confliction issues with the game_over_view. Hopefully next update it will be fixed.
 
-ToDo: Will adding hit points to ShipSprite, adding Ufo's in a future update and will be adding hit points to them as well. Will be adding levels, with bosses at the end of each level, with an end game boss. Will be also adding power-ups, missiles and other special treats at a later date. Please be patient.
+ToDo: Will adding hit points to ShipSprite, adding Ufo's in a future update and will be adding hit points to them as well. Will be adding levels, with bosses at the end of each level, with an end game boss. Will be also adding power-ups, missiles and other special treats at a later date. Will potentially add various modes of play from novice, easy, expert, hard, master and legendary. Will also be adding a ranking system for multiplayer. Please be patient.
 
 .. list-table:: Project Files
    :widths: 25 75
