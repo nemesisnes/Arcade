@@ -29,6 +29,7 @@ class GameView(arcade.View):
         self.hit_sound2 = arcade.load_sound(":resources:sounds/explosion2.wav")
         self.hit_sound3 = arcade.load_sound(":resources:sounds/hit1.wav")
         self.hit_sound4 = arcade.load_sound(":resources:sounds/hit2.wav")
+        self.dead_sound = arcade.load_sound(":resources:sounds/gameover2.wav")
         self.glowball_shadertoy = Shadertoy.create_from_file(self.window.get_size(), "glow_ball.glsl")
         self.glowline_shadertoy = Shadertoy.create_from_file(self.window.get_size(), "glow_line.glsl")
         self.explosion_list = []
@@ -316,5 +317,6 @@ class GameView(arcade.View):
                         asteroids[0].remove_from_sprite_lists()
                         self.ship_life_list.pop().remove_from_sprite_lists()
                     else:
+                        arcade.play_sound(self.dead_sound)
                         view = GameOverView()
                         self.window.show_view(view)
