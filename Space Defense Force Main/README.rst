@@ -38,6 +38,9 @@ ToDo: Will adding hit points to ShipSprite, adding Ufo's in a future update and 
      - This is the main view that holds the game logic. If you are looking for the 'guts'
        of the game, this is it. If you aren't familiar with using "views" in Arcade, see the
        `View Tutorial <https://api.arcade.academy/en/latest/tutorials/views/index.html>`_.
+   * - `_game_over_view.py <source/game_over.view.py>`_
+     - This is all the code for the game over screen. Similar in nature to the start view screen.
+     - Includes the same instructions as start_view.py. 
    * - `glow_ball.glsl <source/glow_ball.glsl>`_
      - GLSL code used to display a glowy-ball bullet.
    * - `glow_ball.py <source/glow_ball.py>`_
