@@ -1,5 +1,6 @@
 # Arcade
-Added the wheel just in case you guys don't have Arcade. You can also check out https://github.com/pythonarcade/arcade to get the latest install base.
+You can check out https://github.com/pythonarcade/arcade to get the latest install base. 
+You can install arcade via pip install arcade, or you can head to https://pypi.org/project/arcade/#files and grab the wheel there. 
 Make sure that you have arcade installed on which ever editor you use to run Python, if not the files in this repository will not work. 
 Solitaire works independantly so you don't need to much to run it.
 Space Defense Force is a work in progress title, that will eventually have enemies, levels, power-ups and much more. 
